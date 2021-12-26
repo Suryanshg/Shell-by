@@ -10,4 +10,4 @@ echo -e -n "Instructions script initiating\nYour Name: "
 read USER
 
 # Welcome the user
-echo "Welcome $USER!" 
+echo "Welcome $USER" 
