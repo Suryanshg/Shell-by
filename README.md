@@ -1,2 +1,2 @@
-# shell-by
+# Shell-by
 Shell Scripting basics
