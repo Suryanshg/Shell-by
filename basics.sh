@@ -1,3 +1,5 @@
+# Shell script with basic shell operations
+
 # Path to the interpreter of the shell script
 #!/bin/sh
 
