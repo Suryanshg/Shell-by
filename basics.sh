@@ -1,4 +1,4 @@
-# Shell script with basic shell operations
+# Shell script with basic shell scripting operations
 
 # Path to the interpreter of the shell script
 #!/bin/sh
