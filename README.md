@@ -13,4 +13,4 @@ Shell Scripting basics
 - $* - return all double-quoted args 
 - $@ - return all individually double-quoted args
 - #? - get the exit status of the last executed command
-- $$ - get process number of the current shell script
+- $$ - get process number/id of the current shell script under which it is executed
