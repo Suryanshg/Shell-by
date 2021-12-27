@@ -1,6 +1,10 @@
 # Shell-by
 Shell Scripting basics
 
+## Contents
+
+TODO: Add Contents and Links
+
 ## Basic Commands
 - `cd`  - change directory
 - `ls` - list contents of current directory
@@ -90,3 +94,34 @@ Shell Scripting basics
 - `[$a -le $b]` -->  Less Than or Equals
 
 Note: These doesn't work for string values
+
+## Boolean Operators
+
+ - `!` - Logical NOT
+ - `-o` - Logical OR
+ - `-a` - Logical AND
+
+## String Operators
+
+- `[$a = $b]` - Equals for string.
+- `[$a != $b]` - Not Equals for string.
+- `[-z $a]` - Check if the string's length is zero.
+- `[-n $a]` - Check if the string's length is non-zero.
+- `[$a]` - Check if the string isn't empty.
+
+## File Test Operators
+
+- `[-b $file]` - Check if the file is a block special file.
+- `[-c $file]` - Check if the file is a character special file.
+- `[-d $file]` - Check if the file is a directory.
+- `[-f $file]` - Check if the file is an ordinary file.
+- `[-g $file]` - Check if the file has its Set Group ID (SGID) bit set.
+- `[-k $file]` - Check if the file has its sticky bit set.
+- `[-p $file]` - Check if the file is a named pipe.
+- `[-t $file]` - Check if the file descriptoris open and associated with a terminal.
+- `[-u $file]` - Check if the file has its Set User ID (SUID) bit set.
+- `[-r $file]` - Check if the file is readable.
+- `[-w $file]` - You can guess now 🙂.
+- `[-x $file]` - You can try your luck again 😏.
+- `[-s $file]` - Check if the file's size is greater than 0.
+- `[-e $file]` - Check if the file exists.
