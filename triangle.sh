@@ -2,12 +2,6 @@
 
 # Author: Suryanshg
 
-#echo -e -n "Enter the size of the number triangle:"
-
-#read sizeTriangle
-
-#echo "Here is the number triangle using nested loops."
-
 sizeTriangle=7
 
 sizeTriangle=$1
