@@ -19,7 +19,7 @@ TODO: Add Contents and Links
 - `grep` - stands for Global search for Regular Expression and Printout. Searches for a particular pattern in strings. 
 - `cat` - concatenate command. Can also be used to print out the contents of a file.
 - `less` - same as `cat` but for larger files.
-- `touch` - can make multiple files simlultaneously.
+- `touch` - can be used to make multiple files simlultaneously.
 - `clear`- 
 - `sudo` -
 - `su` -
