@@ -20,10 +20,10 @@ TODO: Add Contents and Links
 - `cat` - concatenate command. Can also be used to print out the contents of a file.
 - `less` - same as `cat` but for larger files.
 - `touch` - can be used to make multiple files simlultaneously.
-- `clear`- 
+- `clear`- clears all the display of the terminal.
 - `sudo` - adds superuser/admin access whenever it is added before a command.
-- `su` -
-- `curl` - 
+- `su` - used to switch between users. If used without any username, then you automatically become the superuser.
+- `curl` - stands for Client URL. It is used to transfer data to and from a server.
 - `top` -
 - `htop` -
 - `wget` -
