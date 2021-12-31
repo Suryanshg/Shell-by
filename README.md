@@ -121,7 +121,7 @@ Note: These doesn't work for string values
 - `[-t $file]` - Check if the file descriptoris open and associated with a terminal.
 - `[-u $file]` - Check if the file has its Set User ID (SUID) bit set.
 - `[-r $file]` - Check if the file is readable.
-- `[-w $file]` - You can guess now 🙂.
-- `[-x $file]` - You can try your luck again 😏.
+- `[-w $file]` - Check if the file is writable.
+- `[-x $file]` - Check if the file is executable.
 - `[-s $file]` - Check if the file's size is greater than 0.
 - `[-e $file]` - Check if the file exists.
