@@ -18,8 +18,6 @@ do
 		j=`expr $j - 1`
 	done
 
-
-	
         # Print the Left half of the triangle
         j=1
 
