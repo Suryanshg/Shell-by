@@ -61,7 +61,7 @@ TODO: Add Contents and Links
 
 ### Tips
 1. Add `--help` after the command to get its documentation.
-2. Use `.` for current directory and `..` for parent directory.
+2. Use `.` for accessing current directory and `..` for parent directory.
 
 ## Special Variables
 
