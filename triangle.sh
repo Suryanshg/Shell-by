@@ -1,9 +1,7 @@
 # Shell script for printing a number triangle on the basis of user input
-
 #!/bin/sh
 
 # Author: Suryanshg
-
 
 # Parsing arguments from the CLI
 while getopts ':s:h' opt
@@ -37,9 +35,6 @@ done
 # Resetting the OPTIND back to 1
 shift "$(($OPTIND -1))"
 
-
-# sizeTriangle=$1
-#TODO: Add user input functionality
 
 # Function to print the number triangle
 print_Number_Triangle(){
