@@ -21,7 +21,7 @@ TODO: Add Contents and Links
 - `less` - same as `cat` but for larger files.
 - `touch` - can be used to make multiple files simlultaneously.
 - `clear`- 
-- `sudo` -
+- `sudo` - adds superuser/admin access whenever it is added before a command.
 - `su` -
 - `curl` - 
 - `top` -
